@@ -1000,5 +1000,5 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
     margin: 0;
     color: rgb(235, 232, 232); /* Set text color */
     text-shadow: 0 0 10px rgb(245, 56, 119), 0 0 20px rgb(247, 123, 181), 0 0 40px rgb(252, 7, 80); /* Add glowing effect */
-    font-size: 50px;
+    font-size: 38px;
 }
